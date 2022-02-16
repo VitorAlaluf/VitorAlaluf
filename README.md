@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VitorAlaluf
 - 👀 I’m interested in Back-End development
-- 🌱 I’m currently learning Core Java
+- 🌱 I’m currently learning Java Script
 - 💞️ I’m looking to collaborate on Software development
 - 📫 How to reach me vitorgiuliania@gmail.com
 
